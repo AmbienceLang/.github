@@ -1,5 +1,3 @@
-Yes, the sentence is correct. Here it is with some minor formatting adjustments for clarity:
-
 ## Hi there 👋
 
 Welcome to Ambience!
